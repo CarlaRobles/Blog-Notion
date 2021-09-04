@@ -1,25 +1,25 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '91919f9bd4e64a628dc439bb23fd648b',
+  rootNotionPageId: 'bc6d4185e5f6426d8217c01971ebe216',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Rodrigo Gonçalves',
+  name: 'Carla Robles',
   domain: 'rodrigog.com.br',
-  author: 'Rodrigo Gonçalves',
+  author: 'Carla Robles',
 
   // open graph metadata (optional)
-  description: 'Blog sobre games e TI',
+  description: 'Blog da Carla',
   socialImageTitle: 'Blog',
-  socialImageSubtitle: 'Blog sobre games e TI',
+  socialImageSubtitle: 'Blog sobre ui ux',
 
   // social usernames (optional)
   twitter: '',
-  github: 'Oosasukel',
-  linkedin: 'rodrigogon',
+  github: 'CarlaRobles',
+  linkedin: '',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
